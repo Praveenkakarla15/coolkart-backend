@@ -7,10 +7,9 @@ Backend for Coolkart ecommerce with JWT authentication (per-user cart & favorite
 2. `npm install`
 3. Create `.env` using `.env.example`
    ```
-   PORT=3000
-   MONGO_URI=mongodb://127.0.0.1:27017/coolkart
-   JWT_SECRET=your_jwt_secret_here
-   JWT_EXPIRES_IN=7d
+   PORT=
+   MONGO_URI=
+   JWT_SECRET=
    ```
 4. Seed sample products and a test user: `npm run seed`
 5. Start dev server: `npm run dev`
