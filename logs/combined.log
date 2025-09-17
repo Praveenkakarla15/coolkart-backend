@@ -1,0 +1,113 @@
+{
+  message: 'Connected to Mongo for seeding',
+  level: 'info',
+  timestamp: '2025-09-17T04:00:27.988Z'
+}
+{
+  message: 'Products seeded',
+  level: 'info',
+  timestamp: '2025-09-17T04:00:28.069Z'
+}
+{
+  message: 'Test user created: test@coolkart.com / password123',
+  level: 'info',
+  timestamp: '2025-09-17T04:00:28.162Z'
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'Seed error bad auth : Authentication failed.',
+  stack: 'MongoServerError: bad auth : Authentication failed.\n' +
+    '    at Connection.onMessage (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n' +
+    '    at MessageStream.<anonymous> (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n' +
+    '    at MessageStream.emit (node:events:518:28)\n' +
+    '    at processIncomingData (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n' +
+    '    at MessageStream._write (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:572:12)\n' +
+    '    at _write (node:internal/streams/writable:501:10)\n' +
+    '    at Writable.write (node:internal/streams/writable:510:10)\n' +
+    '    at TLSSocket.ondata (node:internal/streams/readable:1009:22)\n' +
+    '    at TLSSocket.emit (node:events:518:28)',
+  timestamp: '2025-09-17T04:21:01.138Z',
+  [Symbol(errorLabels)]: Set(2) { 'HandshakeError', 'ResetPool' }
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'Failed to start server bad auth : Authentication failed.',
+  stack: 'MongoServerError: bad auth : Authentication failed.\n' +
+    '    at Connection.onMessage (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n' +
+    '    at MessageStream.<anonymous> (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n' +
+    '    at MessageStream.emit (node:events:518:28)\n' +
+    '    at processIncomingData (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n' +
+    '    at MessageStream._write (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:572:12)\n' +
+    '    at _write (node:internal/streams/writable:501:10)\n' +
+    '    at Writable.write (node:internal/streams/writable:510:10)\n' +
+    '    at TLSSocket.ondata (node:internal/streams/readable:1009:22)\n' +
+    '    at TLSSocket.emit (node:events:518:28)',
+  timestamp: '2025-09-17T04:23:44.783Z',
+  [Symbol(errorLabels)]: Set(2) { 'HandshakeError', 'ResetPool' }
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'Failed to start server bad auth : Authentication failed.',
+  stack: 'MongoServerError: bad auth : Authentication failed.\n' +
+    '    at Connection.onMessage (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n' +
+    '    at MessageStream.<anonymous> (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n' +
+    '    at MessageStream.emit (node:events:518:28)\n' +
+    '    at processIncomingData (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n' +
+    '    at MessageStream._write (C:\\Users\\prave\\OneDrive\\Documents\\Projects\\COOL KART\\coolkart-backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:572:12)\n' +
+    '    at _write (node:internal/streams/writable:501:10)\n' +
+    '    at Writable.write (node:internal/streams/writable:510:10)\n' +
+    '    at TLSSocket.ondata (node:internal/streams/readable:1009:22)\n' +
+    '    at TLSSocket.emit (node:events:518:28)',
+  timestamp: '2025-09-17T04:27:15.235Z',
+  [Symbol(errorLabels)]: Set(2) { 'HandshakeError', 'ResetPool' }
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-09-17T04:32:36.250Z'
+}
+{
+  message: 'Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-09-17T04:32:36.264Z'
+}
+{
+  message: 'Connected to Mongo for seeding',
+  level: 'info',
+  timestamp: '2025-09-17T04:38:50.486Z'
+}
+{
+  message: 'Products seeded',
+  level: 'info',
+  timestamp: '2025-09-17T04:38:50.860Z'
+}
+{
+  message: 'Test user created: test@coolkart.com / password123',
+  level: 'info',
+  timestamp: '2025-09-17T04:38:51.034Z'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-09-17T05:47:20.958Z'
+}
+{
+  message: 'Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-09-17T05:47:20.969Z'
+}
